@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'MasafumiKashiwagiTest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B632ABF07CA74FBEAF5667DA28FCCEC6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BB49BD0BC73492FA69C2C4A8D0D9047 }}
